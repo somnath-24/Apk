@@ -1,0 +1,5 @@
+{
+  "name": "Habitra",
+  "description": "A mobile-first habit tracker with XP, streaks, and local storage.",
+  "requestFramePermissions": []
+}
